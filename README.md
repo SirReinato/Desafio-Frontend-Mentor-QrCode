@@ -13,6 +13,6 @@ display flex
 
 ## Author
 
-- Frontend Mentor - [@SirReinato](https://www.frontendmentor.io/profile/SirReinato)
+- Frontend Mentor - [@SirReinato] (https://www.frontendmentor.io/profile/SirReinato)
 
 
